@@ -9,11 +9,6 @@
   <a href="#memo-licença">Licença</a>
 </p>
 
-<p align="center">
-   <img alt="logo" src="https://github.com/rogersene/Dev-Finance-/blob/main/assets/logo.svg">
- 
-</p>
-
 <br>
 
 <p align="center">
