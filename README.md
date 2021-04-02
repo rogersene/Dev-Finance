@@ -1,5 +1,4 @@
 <h1 align="center">
-  <a>DEV FINANCE</a>
    <img alt="logo" src="https://github.com/rogersene/Dev-Finance-/blob/main/assets/logo.svg">
 </h1>
 
