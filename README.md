@@ -14,7 +14,6 @@
 <br>
 
 <p align="center">
-   <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
   <img alt="dev.finances" src="https://github.com/rogersene/maratona-discover-01/blob/main/.github/devfinances.png" width="100%">
 </p>
 
